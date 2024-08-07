@@ -1,5 +1,6 @@
 **Privacy Policy**
 
+
 Last updated: August 5, 2024
 
 This privacy policy applies to the Realarm app (hereby referred to as "Application") for mobile devices that was created by Viktor Szekeress (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
